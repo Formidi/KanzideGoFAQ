@@ -1,0 +1,232 @@
+@charset "UTF-8"; /* 文字エンコードの設定（削除不可） */
+
+@font-face {
+	font-family: 'Line Seed JP';
+	src: url('./assets/LINESeedJP_OTF_Rg.woff2') format('woff2');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Line Seed JP';
+	src: url('./assets/LINESeedJP_OTF_Bd.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Line Seed JP';
+	src: url('/assets/LINESeedJP_OTF_Eb.woff2') format('woff2');
+	font-weight: 800;
+	font-style: normal;
+}
+
+
+
+
+:root {
+	/* カラーパレット */
+	--light-gray: #e6e6e6;
+	--medium-gray: #cacaca;
+	--dark-gray: #8a8a8a;
+	--black: #0a0a0a;
+	--white: #fefefe;
+
+	--kango-yellow:#feeb8c;
+	--kango-mint:#80d0ab;
+	--kango-blue:#5354e4;
+
+	/* フォント設定 */
+	--mainfont: 'Line Seed JP', sans-serif;
+	--light:300;
+	--regular:400;
+	--medium:500;
+	--bold:700;
+
+	/* 基本背景色 */
+	--basictext: #444;
+	--contentbgc:white;
+}
+
+* {
+	box-sizing: border-box;
+}
+
+body	{
+	/* font-family:  "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", sans-serif; */
+	font-family:  var(--mainfont);
+	font-weight:var(--regular);
+	color:var(--basictext);
+	margin:0;
+	padding:0;
+	background-color:var(--contentbgc);
+}
+
+#sidebar {
+	background-color:var(--light-gray);
+
+}
+
+	#sidebar .logo {
+		display:flex;
+		align-items: center;
+		justify-content: center;
+	}
+	#sidebar h1 {
+		text-align:center;
+		font-size:20px;	
+	}
+	nav h2 {
+		display: none;
+	}
+	#nav-index {
+		margin-top:1em;
+	}
+
+#main {
+	padding-bottom:4em;
+}
+	#main a,
+	#main a:link,
+	#main a:active,
+	#main a:visited {
+
+	}
+	#main a:hover {
+		color:var(--kango-mint);
+		transition: all 0.3s ease;
+	}
+
+	#main a.button.success,
+	#main a:link.button.success,
+	#main a:active.button.success,
+	#main a:visited.button.success {
+		color:white;
+		background-color: var(--kango-mint);
+	}
+	#main a:hover.button.success {
+		opacity:0.7;
+		transition: all 0.3s ease;
+	}
+
+	#main h1 {
+		font-size:1.7em;
+		padding:0.1em 0.3em;
+		background:var(--kango-yellow);
+		border-bottom:2px dashed orange;
+	}
+		/* #main h1::first-letter {
+			font-size:1.5em;
+			font-weight:var(--bold);
+			color:orange;
+		} */
+
+	#main h2 {
+		font-size:1.3em;
+		background:linear-gradient(
+			transparent 80%,
+			var(--kango-mint) 80%
+		);
+	}
+		#main h2::before {
+			content:'\f5c8';
+			font-family: 'Font Awesome 5 Free';
+			font-weight: bold;
+			margin-right:0.25em;
+		}
+
+
+	#main h3 {
+		font-size:1em;
+		font-weight:var(--bold);
+		border-left:0.5em var(--kango-blue) solid;
+		padding-left:0.5em;
+	}
+
+	#main img {
+		width:480px;
+		max-width:100%;
+	}
+
+footer {
+	width:100%;
+	margin:0;
+	padding:2em 0;
+	text-align: center;
+	background:var(--kango-mint);
+	color:white;
+}
+
+footer a,
+footer a:link,
+footer a:active,
+footer a:visited {
+	color:var(--kango-yellow);
+}
+footer a:hover {
+	color:var(--kango-blue);
+	transition: all 0.3s ease;
+}
+
+
+/** マーカー **/
+.smaller {
+	font-size:0.9em;
+}
+.small {
+	font-size:0.8em;
+}
+
+/* 戻るボタン */
+ul#MODORIBUTTON {
+	position:fixed;
+	right:20px;
+	bottom:0px;
+}
+	ul#MODORIBUTTON li {
+		list-style-type:none;
+	}
+
+	#move-page-top,
+	#move-page-down {
+		display:block;
+		text-decoration:none;
+		text-align:center;
+		color:white;
+		font-size:200%;
+		width:45px;
+		height:45px;
+		line-height:45px;
+		background-color: var(--kango-blue);
+		cursor: pointer;
+		opacity:0.75;
+	}
+
+/* Large only */
+@media screen and (min-width: 64em) and (max-width: 74.9375em) {
+}
+
+/* Large and up */
+@media screen and (min-width: 64em) {
+	#sidebar {
+		padding:1em;
+		box-shadow: inset -13px 0 20px -13px rgba(10,10,10,.25);
+	}
+	#main {
+	}
+
+	#faqbody {
+		margin-top:3em;
+	}
+}
+
+/* Medium only */
+@media screen and (min-width: 40em) and (max-width: 63.9375em) {}
+
+/* Medium and up */
+@media screen and (min-width: 40em) {}
+
+/* Small only */
+@media screen and (max-width: 39.9375em) {
+
+
+
+}
