@@ -1,9 +1,3 @@
-/**
- * app.js
- * @version 1.01
- * @author akatsuki_yu 1.01
- */
-
 @charset "UTF-8"; /* 文字エンコードの設定（削除不可） */
 
 @font-face {
@@ -55,56 +49,6 @@
 	box-sizing: border-box;
 }
 
-/* スタイル設定しやすくするためのクラス */
-.strong {
-	font-weight:bold;
-	color:red;
-}
-.exsmall {
-	font-size:0.7em;
-}
-.small {
-	font-size:0.8em;
-}
-.large {
-	font-size:1.1em;
-}
-.exlarge {
-	font-size:2em;
-}
-
-.twitter, .external {
-	display: inline-block;
-	width:100%;
-	font-size:0.8em;
-	white-space:nowrap;
-	overflow-x:hidden;
-	text-overflow: ellipsis;
-	
-}
-	.twitter:before {
-		font-family: 'Font Awesome 5 Brands';
-		font-weight:400;
-		content: '\f099';
-		margin-right:0.3em;
-	}
-	del .twitter {
-		text-decoration:line-through;
-	}
-
-.external {
-	font-size:1em;
-}
-	.external:before {
-		font-family: 'Font Awesome 5 Free';
-		font-weight:700;
-		content: '\f35d';
-		margin-right:0.3em;
-	}
-
-html {
-	overflow-y: scroll;
-}
 body	{
 	/* font-family: "メイリオ", Meiryo, "ヒラギノ角ゴ ProN W3", "Hiragino Kaku Gothic ProN", sans-serif; */
 	font-family: var(--mainfont);
@@ -115,13 +59,7 @@ body	{
 	background-color:var(--light-gray);
 }
 #page {
-	position:relative;
-	display: flex;
-	flex-direction: row;
-	justify-content: center;
-	max-width:1280px;
-	/* column-gap: 16px; */
-	margin:auto;
+	position: relative;
 }
 
 
@@ -165,47 +103,51 @@ body	{
 	}
 
 
+header {
+	background-color:var(--kango-yellow);
+	height:200px;
+}
+
+	.logo {
+		display:flex;
+		align-items: center;
+		justify-content: center;
+	}
+		.logo img {
+			height:150px;
+			width:auto;
+			object-fit: cover;
+		}
+	header h1 {
+		text-align:center;
+		font-size:20px;	
+		margin:0;
+	}
+
+#main {
+	padding:2em 0 4em;
+	width:100%;
+
+	display: flex;
+	flex-direction: row-reverse;
+	justify-content: center;
+	column-gap: 16px;
+}
+
 nav {
 	position: sticky;
 	top:0;
-	width:25vw;
-	min-width:250px !important;
-	max-width:300px;
-	height:calc(100vh - 80px);
-	box-shadow: inset -13px 0 20px -13px rgba(10,10,10,.25);
+	height:100%;
 }
-
-	header {
-		width:100%;
-		padding:2em 1em 1em;
-	}
-
-		.logo {
-			display:flex;
-			align-items: center;
-			justify-content: center;
-		}
-			.logo img {
-				width:100%;
-				max-width:480px;
-				height:auto;
-				object-fit: cover;
-			}
-		header h1 {
-			text-align:center;
-			font-size:20px;	
-			margin:0;
-		}
 
 	nav h2 {
 		display: none;
 	}
 
 	#nav-index {
-		padding:1em;
+		padding:2em 0;
 		position:relative;
 		z-index:10;
-		margin:0;
 	}
 		#nav-index li {
 			list-style-type: none;
@@ -217,15 +159,10 @@ nav {
 			background: var(--medium-gray);
 		}
 
-#main {
-	padding:0;
-	width:100%;
-}
-
 #faqbody {
 	background-color: var(--white);
 	width:100%;
-	height:100%;
+	max-width: 800px;
 }
 	#faqbody a,
 	#faqbody a:link,
@@ -251,7 +188,7 @@ nav {
 	}
 
 	#faqbody h1 {
-		font-size:1.5em;
+		font-size:1.7em;
 		padding:0.1em 0.3em;
 		background:var(--kango-yellow);
 		font-weight:var(--extrabold);
@@ -273,15 +210,19 @@ nav {
 	#faqbody h2 {
 		font-size:1.3em;
 		font-weight:var(--bold);
-		border-bottom:3px solid var(--kango-mint);
-		padding-left:1.2em;
-		text-indent: -1.2em;
 	}
 		#faqbody h2::before {
 			content:'\f0da';
 			font-family: 'Font Awesome 5 Free';
 			font-weight: bold;
 			padding:0.4em;
+		}
+		#faqbody h2::after {
+			content:'';
+			display:block;
+			width:100%;
+			height:3px;
+			background: var(--kango-mint);
 		}
 
 	#faqbody h3 {
@@ -298,15 +239,11 @@ nav {
 
 footer {
 	width:100%;
-	height:80px;
 	margin:0;
+	padding:2em 0;
 	text-align: center;
 	background:var(--kango-mint);
 	color:white;
-
-	display: flex;
-	justify-content: center;
-	align-items: center;
 }
 
 	footer a,
@@ -321,6 +258,15 @@ footer {
 	}
 
 
+/** マーカー **/
+span.smaller,
+span.smaller {
+	font-size:0.9em;
+}
+a.small,
+span.small {
+	font-size:0.8em;
+}
 
 /* 戻るボタン */
 ul#MODORIBUTTON {
@@ -361,8 +307,7 @@ ul#MODORIBUTTON {
  * small（スマホ）：max 599px
  * medium（タブレット）：max 1024px
  * large（タブレット横～PC）： min 1025px
- * 
- * 参考：iPad pro 10.2インチはwindow.innerwidth:1112（1024より上）
+ * 但しタブレット横（10インチ）は
  */
 @media screen and (min-width:1281px) {
 
@@ -378,74 +323,61 @@ ul#MODORIBUTTON {
 
 /* small and medium */
 @media screen and (max-width:1024px) {
-	#page {
-		flex-direction: column;
-		justify-content: normal;
-		width:100%;
+	#menutoggle {
+		position:fixed;
+		display:block;
+		right:20px;
+		bottom:5vh;
+		font-size:170%;
+		z-index:100;
 	}
 	nav {
-		position:static;
-		width:100%;
-		height:auto;
-		box-shadow: none;
-		min-width:unset;
-		max-width: unset;
+		position:relative;
 	}
-		header {
-			background-color:var(--kango-yellow);
-		}
+	#nav-index {
+		position:fixed;
+		top:0;
+		left:0;
+		right: unset;
+		bottom:unset;
+		width:60vw;
+		height:100dvh;
+		transform:translateX(-80vw);
+		background-color:white;
+		z-index:5;
+		padding:0 0 25px;
+		margin:0;
 
-		#menutoggle {
-			position:fixed;
-			display:block;
-			right:20px;
-			bottom:5vh;
-			font-size:170%;
-			z-index:100;
+		display:flex;
+		justify-content: center;
+		flex-direction: column;
+	}
+		#nav-index li {
+			border-top:1px solid var(--dark-gray);
+			padding: 1.5em 0 1.5em 1em;
 		}
-		#nav-index {
-			position:fixed;
-			top:0;
-			left:0;
-			right: unset;
-			bottom:unset;
-			width:60vw;
-			height:100dvh;
-			transform:translateX(-80vw);
-			background-color:white;
-			z-index:5;
-			padding:1.5em 0 0 0;
-			margin:0;
-
-			display:flex;
-			flex-direction: column;
-		}
-			#nav-index li {
-				border-top:1px solid var(--dark-gray);
-				padding: 1.5em 0 1.5em 1em;
+			#nav-index li:nth-child(2n) {
+				background-color: whitesmoke;
 			}
-				#nav-index li:nth-child(2n) {
-					background-color: #f0f0f0 ;
-				}
-				#nav-index li:last-child {
-					border-bottom:1px solid var(--dark-gray);
-				}
-
-			.open #nav-index { 
-				transform: translateX(0);
-				transition: all .5s ease; 
+			#nav-index li:last-child {
+				border-bottom:1px solid var(--dark-gray);
 			}
 
-			.menumove {
-				transition: all .5s ease;
-			}
+		.open #nav-index { 
+			transform: translateX(0);
+			transition: all .5s ease; 
+		}
+
+		.menumove {
+			transition: all .5s ease;
+		}
 
 	#main {
 		column-gap: normal;
 	}
 
-	#faqbody h1 {
-		font-size:1.4em;
+	#faqbody p {
+		padding:0 0.5rem;
 	}
 	#faqbody ul {
 		margin-left:2rem;
@@ -460,6 +392,7 @@ ul#MODORIBUTTON {
 /* Medium and up */
 @media screen and (min-width:600px) {
 	#faqbody {
+		border-radius: 1em;
 		padding:2em;
 	}
 }
@@ -470,46 +403,33 @@ ul#MODORIBUTTON {
 		height:fit-content;
 		padding:1em 0;
 	}
-		.logo {}
-			.logo img {
-				width:80vw;
-				height:auto;
-			}
+	.logo {}
+		.logo img {
+			width:80vw;
+			height:auto;
+		}
 
-		#menutoggle {
-			bottom:0;
+	#menutoggle {
+		bottom:0;
+	}
+	#nav-index {
+		width:75vw;
+	}
+		#nav-index li {
+			padding:0.8em 0 0.8em 1em;
 		}
-		#nav-index {
-			width:75vw;
-			padding:1em 0 0 0;
-		}
-			#nav-index li {
-				padding:0.7em 0 0.7em 1em;
-			}
 
 	#main {
 		display:block;
-		padding:1em 0 0;
-	}
-
-	#faqbody p {
-		padding:0 0.5rem;
 	}
 
 	#faqbody h1 {
-		font-size:1.3rem;
+		font-size:1.4rem;
 		padding:0.3em;
-		border-radius: 0;
 	}
 	#faqbody h2 {
 		font-size:1.2rem;
-		padding-left:1.4rem;
-		text-indent: -1.4rem;
-		padding-right:0.5rem;
 	}
-		#faqbody h2:before {
-			
-		}
 	#faqbody h3 {
 		border-left:0.75em var(--kango-blue) solid;
 	}
