@@ -1,7 +1,7 @@
 /**
  * app.js
- * @version 1.01
- * @author akatsuki_yu 1.01 urlパラメータにより読み込むファイルを変更する
+ * @version 1.011
+ * @author akatsuki_yu 1.011 drive.google.comはボタン付きと判断してexternal処理から除外する
  */
 const defaultfilename = "faq";
 
@@ -116,13 +116,15 @@ function formatAndSetMd(data) {
 	var twitterpattern = /(?<=<(p|br)>(<[^\/]+?>)*)<a href="https*:\/\/(twitter|vxtwitter|x)\.com\/(.+?)"/g;
 	html = html.replace(twitterpattern, '<a href="https://$3.com/$4" class="twitter"');
 
-	// Twitterとこのページ以外でURLのみの行をクラスexternalにする
+	// URLのみの行をクラスexternalにする
+	// 以下は処理を除外するドメイン
 	var exclude = [
 		window.location.host,
 		'twitter\.com',
 		'vx\.twitter',
 		'x\.com',
-		'forms.gle'
+		'forms.gle',
+		'drive.google.com'
 	].join("|");
 	var externalpattern = new RegExp('(?<=<(p|br)>(<[^\/]+?>)*<a href="https*:\/\/)(?!(' + exclude + '))(.+?)"',"g");
 	html = html.replace(externalpattern, '$4" class="external"');
