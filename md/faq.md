@@ -396,6 +396,50 @@ RPGツクールMVのイベント欄に、直接コマンドを入力したりマ
 解説などのフォント：[Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans+JP)  
 漢字のフォント：[セイビタカナワ(B)](https://designpocket.jp/font/detail/3205)
 
+## ステージや敵キャラの名前の由来が知りたい
+
+ステージ名はあんまり考えずにフィーリングで付けてます。
+例外として、銀子圏の世界だけ[閔子騫](https://ja.wikipedia.org/wiki/%E9%96%94%E5%AD%90%E9%A8%AB)です。
+
+### キャンドリー
+飴(candy) + 鳥
+
+### 古典インク
+[没食子インク](https://ja.wikipedia.org/wiki/%E6%B2%A1%E9%A3%9F%E5%AD%90%E3%82%A4%E3%83%B3%E3%82%AF)の別名
+
+### VT-lvk01S
+[真空管(vacuum tube)](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1) + Lvk(漢字でGO!専用フォルダの、問題を入れているフォルダ名) + 01(初期型) + S(サブドローン)
+
+### 破損データ
+フィーリング
+
+### アッシュ
+ヒトデの学名(Asteroidea)
+
+### シデンクラゲ
+紫電 + クラゲ
+
+### 覇流鬼華丹亜
+[ハルキゲニア](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%AD%E3%82%B2%E3%83%8B%E3%82%A2)
+
+### ミジンコ
+[ミジンコ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B8%E3%83%B3%E3%82%B3)
+- ネーミングが安直な理由は、正面を向いたミジンコが初見だと分かりづらいため
+
+### ピョコまる
+ピョコピョコ(擬音) + 人名の『～まる』 & 丸
+
+### レイピオス
+[アスクレピオスの杖](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%94%E3%82%AA%E3%82%B9%E3%81%AE%E6%9D%96)
+
+### UF-lvk67A
+UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォルダ名) + ドラゴンの頭2文字(**DR** + A)がなんちゃって[leet表記](https://ja.wikipedia.org/wiki/Leet)
+- 6 → ちょっと崩すとDに見えなくもない
+- 7 → 反転すると小文字のrっぽい
+
+### ツミノカブト
+[ツミ](https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%9F) & 罪 + 兜
+
 # ゲーム制作関係
 ## ゲームの作者について
 - ゲーム構想：Micelle
