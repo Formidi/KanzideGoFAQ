@@ -1,7 +1,7 @@
 /**
  * app.js
- * @version 1.01
- * @author akatsuki_yu 1.01
+ * @version 1.02
+ * @author akatsuki_yu 1.02 メニュー項目数が多い場合に項目の高さを自動調整するよう修正
  */
 
 @charset "UTF-8"; /* 文字エンコードの設定（削除不可） */
@@ -419,6 +419,7 @@ ul#MODORIBUTTON {
 
 			display:flex;
 			flex-direction: column;
+			flex-wrap: nowrap;
 		}
 			#nav-index li {
 				border-top:1px solid var(--dark-gray);
@@ -481,10 +482,18 @@ ul#MODORIBUTTON {
 		}
 		#nav-index {
 			width:75vw;
-			padding:1em 0 0 0;
+			height:100dvh;
+			padding:0;
+			/* align-items:stretch; */
+			justify-content: center;
 		}
 			#nav-index li {
-				padding:0.7em 0 0.7em 1em;
+				font-size:0.9em;
+				padding:0 0.7em;
+				display: flex;
+				align-items: center;
+				flex:1 1 auto;
+				max-height:3.5em;
 			}
 
 	#main {
