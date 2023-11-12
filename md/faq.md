@@ -35,22 +35,16 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 カテゴリジャンプして探すか、ブラウザのページ内検索機能を使用してください。
 
 </br>
-</br>
-
-# 差し替えた問題一覧
-## 差し替えた問題を教えてほしい
-以下のページをご参照ください。
 
 <a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧</a>
 
 </br>
-</br>
-
-# 配信に関する取り扱い
-## 収益化やロゴ画像、マナーなどに関して
-以下のページをご参照ください。
 
 <a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
+
+</br>
+
+<a href="./?p=oshiete" target="_blank" class="button success large">教えて！漢字でGO!</a>
 
 </br>
 </br>
@@ -555,138 +549,6 @@ Lv6内でも、配当外ではない（10～1級の漢字で構成されてい�
 - 開発者自身が有償で創作物を制作することが大の苦手
 
 などの理由で、結局のところ金銭をかけてまで制作することは考えておりません。そもそも趣味で公開しているゲームなので…
-
-</br>
-</br>
-
-# 教えて！ 漢字でGO!
-## 膨大な問題／解説は手作業で記述していますか？
-RPGツクールMVのイベント欄に、直接コマンドを入力したりマクロを使用してシステムを製作しております。
-
-[回答日時：2023年8月30日 午前1:05](https://twitter.com/KanzideGo/status/1696554660612505795?s=20)
-
-</br>
-</br>
-
-## プログラムはどうしている？
-上の回答や画像の通りです。ツクールがJavaScript専用なのでjsを使用しています。
-
-開発者はコードを読んだり書いたりできる！というわけではないので、自分ができないような仕組みは有志の方と協力しつつ組み立てています。
-
-![Tips画面の処理](./images/kanzidego_event.png)  
-- 『条件分岐：所持金 ≧ 0』としているのはイベントをまとめて移動するフォルダ代わりです。本ゲームでは所持金の概念がないので
-
-</br>
-</br>
-
-## プログラムを全て開示してほしい
-
-DL版のフォルダを漁ることで.jsファイル諸々を閲覧することができます。
-
-また、原則として<strong class="strong large">誤解を防ぐため、本ゲームの問題やコードを改変した作品を二次配布することは一切禁じます。</strong>
-
-</br>
-</br>
-
-## アニメーションやエフェクトはどう作っている？
-
-ペイントツールでパーツを描いたあと、[Live2D](https://www.live2d.com/)と[AviUtl](https://spring-fragrance.mints.ne.jp/aviutl/)で動かしています。
-
-エフェクトはAviUtlで比較的簡単に付けられます。
-
-![AviUtlの操作画面](./images/kanzidego_anm.png)  
-
-</br>
-</br>
-
-## ゲーム中の使用フォントが知りたい
-基本フォント：[わんぱくルイカ](https://www.type-labo.jp/)  
-解説などのフォント：[Noto Sans](https://fonts.google.com/noto/specimen/Noto+Sans+JP)  
-漢字のフォント：[セイビタカナワ(B)](https://designpocket.jp/font/detail/3205)
-
-</br>
-</br>
-
-## ステージや敵キャラの名前の由来が知りたい
-
-ステージ名はあんまり考えずにフィーリングで付けてます。
-例外として、銀始圏の世界だけ[閔子騫](https://ja.wikipedia.org/wiki/%E9%96%94%E5%AD%90%E9%A8%AB)です。
-
-### キャンドリー
-飴(candy) + 鳥
-
-### 古典インク
-[没食子インク](https://ja.wikipedia.org/wiki/%E6%B2%A1%E9%A3%9F%E5%AD%90%E3%82%A4%E3%83%B3%E3%82%AF)の別名
-
-### VT-lvk01S
-[真空管(vacuum tube)](https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%A9%BA%E7%AE%A1) + Lvk(漢字でGO!専用フォルダの、問題を入れているフォルダ名) + 01(初期型) + S(サブドローン)
-
-### 破損データ
-フィーリング
-
-### アッシュ
-ヒトデの学名(Asteroidea)
-
-### シデンクラゲ
-紫電 + クラゲ
-
-### 覇流鬼華丹亜
-[ハルキゲニア](https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AB%E3%82%AD%E3%82%B2%E3%83%8B%E3%82%A2)
-
-### ミジンコ
-[ミジンコ](https://ja.wikipedia.org/wiki/%E3%83%9F%E3%82%B8%E3%83%B3%E3%82%B3)
-- ネーミングが安直な理由は、正面を向いたミジンコが初見だと分かりづらいため
-
-### ピョコまる
-ピョコピョコ(擬音) + 人名の『～まる』 & 丸
-
-### レイピオス
-[アスクレピオスの杖](https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B9%E3%82%AF%E3%83%AC%E3%83%94%E3%82%AA%E3%82%B9%E3%81%AE%E6%9D%96)
-
-### UF-lvk67A
-UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォルダ名) + ドラゴンの頭2文字(**DR** + A)がなんちゃって[leet表記](https://ja.wikipedia.org/wiki/Leet)
-- 6 → ちょっと崩すとDに見えなくもない
-- 7 → 反転すると小文字のrっぽい
-
-### ツミノカブト
-[ツミ](https://ja.wikipedia.org/wiki/%E3%83%84%E3%83%9F) & 罪 + 兜
-
-</br>
-</br>
-
-# ゲーム制作関係
-## ゲームの作者について
-- ゲーム構想：Micelle
-- 開発：Micelle
-- 一部システム開発：アカツキユウ、chuukunn
-- BGM：Micelle
-- SE：Micelle／OtoLogic
-- 作画：Micelle
-- アニメーション：Micelle
-- 作問：Micelle／問題募集を送って下さった皆様
-
-基本開発、ビジュアル作成、お問い合わせ回答、Twitter運営など、**大体みせる（Micelle）がワンオペで行っております**。
-
-</br>
-</br>
-
-### **みせる（Micelle）**@[t3n3bra3](https://twitter.com/t3n3bra3) 
-- 普段はヘンな動画を作ったり、BMSを制作していたりします。
-- [漢検準一級](https://twitter.com/t3n3bra3/status/1598226797211942913)です。
-
-</br>
-</br>
-
-### BGMも？
-上記の通りみせる（Micelle）が作曲いたしました。  
-YouTubeでは、デフォルト／アクア／スカイのBGM集を投稿しています。  
-[<i class="fab fa-youtube"></i> 漢字でGO! ステージBGM集](https://youtu.be/pnc5hXPWmc4?si=pdYG-Nw0xaMNepRY)
-
-</br>
-</br>
-
-## クレジットに記載されているスタッフは何をした人？
-出題内容のデバッグ（校正）やプログラミングの補助、アドバイス等をいただきました。  
 
 </br>
 </br>
