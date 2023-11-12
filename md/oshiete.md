@@ -74,13 +74,14 @@ DL版のフォルダを漁ることで.jsファイル諸々を閲覧すること
 
 ### 破損データ
 フィーリング
+![破損データ](./images/Enm04A.png)  
 
 </br>
 
 ### アッシュ
 ヒトデの学名(Asteroidea)
 
-![アッシュ](./images/Enm02B.png)  
+![アッシュ](./images/Enm01B.png)  
 
 </br>
 
