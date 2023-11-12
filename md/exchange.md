@@ -5,7 +5,7 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 一瞬(1.0.1βで)更新内容に記載しておりましたが、行数を圧迫してしまうのでこちらに書くことにいたします。
 処遇が『Lvnへ』の場合は、そのバージョンですぐに対象レベルに収録されるというわけではないため、あらかじめご留意ください。
 
-<strong class="strong large">Lv7の差し替え後は意図的に背景の色と同じにしています。ドラッグをすることで閲覧することができます。</strong>
+
 
 </br>
 </br>
@@ -42,7 +42,7 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 | |**瓸**| |**翌(る日)**|
 
 <details>
-<summary>Lv7</summary>
+<summary>Lv7（差し替え後を見たい場合はその欄をトリプルクリック）</summary>
 
 |Lv|差し替え前|処遇|差し替え後|
 |---|---|---|---|
@@ -54,6 +54,8 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 | |**咿(い)**| |<span style="color:#F1F1F1;font-weight:bold;">𠕲</span>|
 |7|じがばち|削除|<span style="color:#FEFEFE;">しょうもん</span>|
 | |**𧒘**| |<span style="color:#F1F1F1;font-weight:bold;">𬼆</span>|
+|7|はねおど|削除|<span style="color:#FEFEFE;">かなび、かなひ</span>|
+| |**獧(る)**| |<span style="color:#F1F1F1;font-weight:bold;">𮢉</span>|
 |7|うっとり|削除|<span style="color:#FEFEFE;">もう</span>|
 | |**惝(する)**| |<span style="color:#F1F1F1;font-weight:bold;">𫐃(す)</span>|
 
@@ -96,7 +98,7 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 | |**加之**| |**頌**|
 
 <details>
-<summary>Lv7</summary>
+<summary>Lv7（差し替え後を見たい場合はその欄をトリプルクリック）</summary>
 
 |Lv|差し替え前|処遇|差し替え後|
 |---|---|---|---|
