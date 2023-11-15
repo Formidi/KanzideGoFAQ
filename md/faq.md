@@ -6,6 +6,10 @@
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
 </br>
+
+<a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
+
+</br>
 </br> 
 
 # 1.0.6.4βで確認している不備
