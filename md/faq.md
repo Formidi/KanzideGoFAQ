@@ -55,6 +55,10 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 <a href="./?p=oshiete" target="_blank" class="button success large">教えて！漢字でGO!</a>
 
 </br>
+
+<a href="./?p=bg" target="_blank" class="button success large">壁紙配布</a>
+
+</br>
 </br>
 
 # 1.0.6.4β以降のDL版について

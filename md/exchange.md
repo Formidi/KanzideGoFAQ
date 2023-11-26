@@ -20,6 +20,8 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 
 |Lv|差し替え前|処遇|差し替え後|
 |---|---|---|---|
+|1|あなぐま|文の変更|わぎゅう|
+| |**穴熊**| |**(黒毛)和牛**|
 |2|なんくせ|文の変更|なんくせ|
 | |**難癖**| |**難癖(を付ける)**|
 |3|ちんぴん|削除|ちんみ|
@@ -60,6 +62,8 @@ ver1.0.1以降で、差し替えを行った問題を記載します。
 | |**獧(る)**| |<span style="color:#F1F1F1;font-weight:bold;">𮢉</span>|
 |7|うっとり|削除|<span style="color:#FEFEFE;">もう</span>|
 | |**惝(する)**| |<span style="color:#F1F1F1;font-weight:bold;">𫐃(す)</span>|
+|7|にちょうのゆみ|文の変更|<span style="color:#FEFEFE;">にちょうのゆみ</span>|
+| |**𪫄**| |<span style="color:#F1F1F1;font-weight:bold;">𪫄(葛城合戦)</span>|
 
 </details>
 </br>
