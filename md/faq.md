@@ -5,9 +5,15 @@
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
+<a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
+
 </br>
 
-<a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
+<a href="https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E3%81%A7go/id6470660613" target="_blank" class="button success large">スマホアプリ版(iOS)</a>
+
+</br>
+
+<a href="https://play.google.com/store/apps/details?id=com.micelle.kanji" target="_blank" class="button success large">スマホアプリ版(Android)</a>
 
 </br>
 </br> 
