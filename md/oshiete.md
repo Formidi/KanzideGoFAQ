@@ -145,7 +145,7 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 
 <details>
 <summary>マイス（ADMIN）について</summary>
-由来は『物質的実行編集ユニット(**M**aterial **I**nplement **C**ompil**e**r unit)』から
+由来は『物質的実行編集ユニット(**M**aterial **I**mplement **C**ompil**e**r unit)』から
 
 画像はハメコミ合成
 
