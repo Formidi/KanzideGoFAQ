@@ -51,10 +51,6 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 </br>
 
-<a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧</a>
-
-</br>
-
 <a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
 
 </br>
@@ -66,6 +62,10 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 <a href="./?p=bg" target="_blank" class="button success large">壁紙配布</a>
 
 </br>
+</br>
+
+<a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧(サポート終了)</a>
+
 </br>
 
 # 1.0.6.4β以降のDL版について
