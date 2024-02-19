@@ -16,18 +16,6 @@
 <a href="https://play.google.com/store/apps/details?id=com.micelle.kanji" target="_blank" class="button success large">スマホアプリ版(Android)</a>
 
 </br>
-</br> 
-
-# 1.0.8.2f βで確認している不備
-- 調査中
-
-</br> 
-
-## スマホアプリ版の不備（1.0.7.3β）
-- 調査中
-
-
-</br>
 </br>
 
 # お問い合わせについて
