@@ -751,4 +751,12 @@ Lv6～以降はリンクが載っていない場合、裏付けの確認をよ�
 こちらの問い合わせフォームよりご連絡ください。
 また、内容によっては答えることができないため予めご了承くださいませ。
 
-<a href="https://forms.gle/QV1sbnDHAxf3uKig9" target="_blank" class="button success large">漢字でGO! 問い合わせフォーム</a>
+<a href="https://ssl.form-mailer.jp/fms/dc3675ae819121" target="_blank" class="button success large">漢字でGO! 問い合わせフォーム</a>
+
+</br>
+
+<a href="https://formidi.github.io/KanzideGoFAQ/?p=form_notice" target="_blank" class="button success large">お問い合わせフォームの利用上の注意</a>
+
+</br>
+
+<a href="https://formidi.github.io/KanzideGoFAQ/?p=form_question" target="_blank" class="button success large">問題に関するお問い合わせの記入方法</a>
