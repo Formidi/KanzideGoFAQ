@@ -751,6 +751,8 @@ Lv6～以降はリンクが載っていない場合、裏付けの確認をよ�
 こちらの問い合わせフォームよりご連絡ください。
 また、内容によっては答えることができないため予めご了承くださいませ。
 
+</br>
+
 <a href="https://ssl.form-mailer.jp/fms/dc3675ae819121" target="_blank" class="button success large">漢字でGO! 問い合わせフォーム</a>
 
 </br>
