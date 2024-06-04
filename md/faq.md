@@ -768,7 +768,7 @@ Lv6～以降はリンクが載っていない場合、裏付けの確認をよ�
 
 </br>
 
-<a href="https://ssl.form-mailer.jp/fms/dc3675ae819121" target="_blank" class="button success large">『漢字でGO!』問い合わせフォーム</a>
+<a href="https://forms.gle/3VsxjYDQWxCqXJCu7" target="_blank" class="button success large">『漢字でGO!』問い合わせフォーム</a>
 
 </br>
 
