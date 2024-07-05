@@ -147,19 +147,79 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 
 </br>
 
-### マイス（パラレルワールド）
-『ADMIN』という、昔作ろうとして[エターなった](https://dic.nicovideo.jp/a/%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%8B)ゲームに出てくるキャラクター…の、並行世界線の存在という設定
+### ピカタブD51
+ピカピカ(擬音) + タブレット + **D**eveloping(開発中) + <strong class="strong large">新ステージを制作中、強烈なめまいが来た回数(5) + 意識を失いかけるレベルの腹痛が来た回数(1)</strong>
+<span class="small" style="color:gainsboro">二度とやりたくない　勝手な期待はしないでほしい…</span>
 
-![マイス(パラレルワールド)](./images/EnmB.png)  
+![ピカタブD51](./images/Enm01D.png)  
+
+</br>
+
+### ヴィクティム
+犠牲者、生贄、人身御供(victim)
+
+![ヴィクティム](./images/Enm02D.png)  
+
+</br>
+
+### キャンドリアナ4世
+キャンドリー + 女性名『～ana』 + 4(4番目に制作したステージスキン)
+
+![キャンドリアナ4世](./images/Enm03D.png)  
 
 <details>
-<summary>マイス（ADMIN）について</summary>
-由来は『物質的実行編集ユニット(**M**aterial **I**mplement **C**ompil**e**r unit)』から
+<summary>余談</summary>
+ローディング画面のヒエログリフは解読可能
+
+ヒントは『Caesar』『18』<span class="small">（ほぼ答え）</span>
+
+![ローディング画面のヒエログリフ](./images/Enemy03D_tips.png)
+</details>
+
+</br>
+
+### アドミン（パラレルワールド）／マイス（パラレルワールド）
+『ADMIN』という、昔作ろうとして[エターなった](https://dic.nicovideo.jp/a/%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8A%E3%82%8B)ゲームに出てくるキャラクター…の、並行世界線の存在という設定
+
+1枚目がマイス、2枚目がアドミン
+
+![マイス(パラレルワールド)](./images/EnmB.png)  
+![アドミン(パラレルワールド)](./images/Enemy04Da.png)  
+
+<details>
+<summary>原作について</summary>
+
+マイス ⇒ 『物質的実行編集ユニット(**M**aterial **I**mplement **C**ompil**e**r unit)』から
+
+アドミン ⇒ 管理者(administrator)
 
 画像はハメコミ合成
 
 ![ADMINデモ画像01（ハメコミ）](./images/Demo53.png)
-![ADMINデモ画像02（ハメコミ）](./images/Demo56.png)   
+![ADMINデモ画像02（ハメコミ）](./images/Demo54.png)
+![ADMINデモ画像03（ハメコミ）](./images/Demo56.png)
+
+『前甲<span class="small">（ぜんこう）</span>』は、ヤドカリなどの甲殻類に備わる外殻の一部
+
+</details>
+
+</br>
+
+### Θ-δ
+なんちゃって個人ブランド『citadel』から
+
+![Θ-δ](./images/Enemy04Db.png)  
+
+<details>
+<summary>citadelについて</summary>
+
+![ロゴ](./images/logo_cit_black.png)  
+
+なぜこういうロゴなのかというと、言葉遊びでギリシャ文字の『Θ』『δ』と語呂が似ているため
+
+Θ-δ自身は、**ある種のメタ的な概念**としてゲームなど自作品に登場させており、外見は作品によってまちまち
+
+![Θ-δ（ある姿）](./images/citadel_sample.png)  
 
 </details>
 
