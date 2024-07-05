@@ -174,7 +174,7 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 
 ヒントは『Caesar』『18』<span class="small">（ほぼ答え）</span>
 
-![ローディング画面のヒエログリフ](./images/Enemy03D_tips.png)
+![ローディング画面のヒエログリフ](./images/Enm03D_tips.png)
 </details>
 
 </br>
