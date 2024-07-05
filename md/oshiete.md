@@ -185,7 +185,7 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 1枚目がマイス、2枚目がアドミン
 
 ![マイス(パラレルワールド)](./images/EnmB.png)  
-![アドミン(パラレルワールド)](./images/Enemy04Da.png)  
+![アドミン(パラレルワールド)](./images/Enm04Da.png)  
 
 <details>
 <summary>原作について</summary>
@@ -213,7 +213,7 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 ### Θ-δ
 なんちゃって個人ブランド『citadel』から
 
-![Θ-δ](./images/Enemy04Db.png)  
+![Θ-δ](./images/Enm04Db.png)  
 
 <details>
 <summary>citadelについて</summary>
