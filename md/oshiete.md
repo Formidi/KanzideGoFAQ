@@ -149,6 +149,7 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 
 ### ピカタブD51
 ピカピカ(擬音) + タブレット + **D**eveloping(開発中) + <strong class="strong large">新ステージを制作中、強烈なめまいが来た回数(5) + 意識を失いかけるレベルの腹痛が来た回数(1)</strong>
+
 <span class="small" style="color:gainsboro">二度とやりたくない　勝手な期待はしないでほしい…</span>
 
 ![ピカタブD51](./images/Enm01D.png)  
