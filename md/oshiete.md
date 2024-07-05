@@ -190,15 +190,19 @@ UFO + Lvk(漢字でGO!専用フォルダの、問題を入れているフォル�
 <details>
 <summary>原作について</summary>
 
-マイス ⇒ 『物質的実行編集ユニット(**M**aterial **I**mplement **C**ompil**e**r unit)』から
+マイス
+- 『物質的実行編集ユニット(**M**aterial **I**mplement **C**ompil**e**r unit)』から
 
-アドミン ⇒ 管理者(administrator)
+アドミン
+- 管理者(administrator)
 
 画像はハメコミ合成
 
 ![ADMINデモ画像01（ハメコミ）](./images/Demo53.png)
 ![ADMINデモ画像02（ハメコミ）](./images/Demo54.png)
 ![ADMINデモ画像03（ハメコミ）](./images/Demo56.png)
+
+上記のアドミンは、人工的に生み出された半機械半生物のヤドカリが電子世界(PC)に寄生し、3Dモデルツールの素体を拝借した姿
 
 『前甲<span class="small">（ぜんこう）</span>』は、ヤドカリなどの甲殻類に備わる外殻の一部
 
