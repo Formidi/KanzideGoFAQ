@@ -23,7 +23,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 <strong class="strong large">①ご迷惑となりますので、Plicy様<span class="small">（ブラウザ版を運営されているサイト）</span>の公式連絡フォームから直接『漢字でGO!』のゲーム内容に関するお問い合わせをすることはお控えください。</strong>
 
-<strong class="strong large">②仕様による誤解を防ぐため、初めてプレイする際は、各コースを選択する前にかならず遊び方説明をよくご覧ください。</strong><span class="small">(一足飛びにしてしまう方が多く見受けられます。そのため、より理解しやすいような説明を検討中です)</span>
+<strong class="strong large">②仕様による誤解を防ぐため、初めてプレイする際は、各コースを選択する前に必ず遊び方説明をよくご覧ください。</strong><span class="small">（一足飛びにしてしまう方が多く見受けられます。）</span>
 
 また、お問い合わせフォーム以外からの『漢字でGO!』についてのご連絡（『漢字でGO!』開発アカウント、制作者個人アカウントへのDM 等）には一切対応致しかねます。
 
@@ -37,21 +37,34 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 </br>
 
 ## 項目を探したい
-カテゴリジャンプして探すか、ブラウザのページ内検索機能を使用してください。
+カテゴリジャンプして探すか、ブラウザのページ内検索機能<span class="small">（PCの標準ブラウザではCtrl(Command)+Fで表示可能）</span>を使用してください。
+
+</br>
+</br>
+
+## その他のページ
 
 </br>
 
 <a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
+配信に関するルールや最低限のマナーを記載しています。
 
 </br>
 
 <a href="./?p=oshiete" target="_blank" class="button success large">教えて！漢字でGO!</a>
+ゲームの仕組みやキャラクターなどを説明しています。
 
 </br>
 
 <a href="./?p=bg" target="_blank" class="button success large">壁紙配布</a>
+背景や待ち受けなどに使用できる壁紙を配布しています。
 
 </br>
+</br>
+
+<a href="./?p=memorandum" target="_blank" class="button success large">備忘録</a>
+出題におけるレギュレーション補助のためのページです。
+
 </br>
 
 <a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧(サポート終了)</a>
