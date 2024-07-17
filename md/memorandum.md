@@ -7,6 +7,11 @@
 
 単語を取り扱うページです。
 
+ゲーム内解説では ![備忘録のアイコン](./images/Ico_009.png) で表示されます。
+
+</br>
+</br>
+
 # お断り
 ご存知のことと存じますが<strong class="strong large">確かな信憑性を保証するものではない</strong>ため、当てにしすぎないようご留意ください。
 
@@ -21,6 +26,7 @@
 # Lv4
 ## 「尾」ける
 **v1.1.1.0f**時点でのID：`Lv04_1096`
+
 正解としている読み：**つ**<span class="small">ける</span>
 
 </br>
@@ -30,9 +36,13 @@
   - [尾ける の例文集 - 用例.jp](https://yourei.jp/%E5%B0%BE%E3%81%91%E3%82%8B)
   - [尾行するという意味の「つける」という動詞を、尾という漢字を使って表記することは可能か。｜レファレンス協同データベース](https://crd.ndl.go.jp/reference/entry/index.php?id=1000099796&page=ref_view)
 
+</br>
+</br>
+
 # Lv5
 ## 「無礼」る
 **v1.1.1.0f**時点でのID：`Lv05_1484`
+
 正解としている読み：**なめ**<span class="small">る</span>
 
 </br>
@@ -44,9 +54,13 @@
   - [記事 - エキサイトニュース](https://www.excite.co.jp/news/article/E1692977494201/)
   - [中央を無礼るなよ - ピクシブ百科事典](https://dic.pixiv.net/a/%E4%B8%AD%E5%A4%AE%E3%82%92%E7%84%A1%E7%A4%BC%E3%82%8B%E3%81%AA%E3%82%88)
 
+</br>
+</br>
+
 # Lv6
 ## 「鱣子」
 **v1.1.1.0f**時点でのID：`Lv06_0576`
+
 正解としている読み：**きゃびあ**
 
 </br>
@@ -58,3 +72,6 @@
   - [記事 - 日刊サンＷＥＢ](https://nikkansan.net/general-column/trivia/takeabreak_112520/#:~:text=%E3%83%AD%E3%82%B7%E3%82%A2%E8%AA%9E%E3%81%A7%E3%81%AF%E3%83%81%E3%83%A7%E3%83%BC%E3%83%AB%E3%83%8A%E3%83%A4%E3%83%BB%E3%82%A4%E3%82%AF%E3%83%A9%E3%83%BC&text=%E6%BC%A2%E5%AD%97%E3%81%A7%E6%9B%B8%E3%81%8F%E3%81%A8%E3%80%8C%E9%B1%A3,%E3%81%A7%E3%82%AD%E3%83%A3%E3%83%93%E3%82%A2%E3%81%A8%E8%AA%AD%E3%81%BF%E3%81%BE%E3%81%99%E3%80%82)
   - [記事 - フーズラボ・エージェント](https://foods-labo.com/column/oyakudachi04)
   - [記事 - ターキッシュエア＆トラベル](https://turkish.jp/turkishfood/%E3%82%AD%E3%83%A3%E3%83%93%E3%82%A2/)
+  
+</br>
+</br>
