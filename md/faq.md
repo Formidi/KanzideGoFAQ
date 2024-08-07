@@ -22,10 +22,10 @@
 FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙動を発見した場合の報告は、お問い合わせフォームよりご連絡をお願いいたします。<span class="small">（このページの最下段にあります）</span>
 
 <strong class="strong large">①ご迷惑となりますので、PLiCy様<span class="small">（ブラウザ版を運営されているサイト）</span>の公式連絡フォームから直接『漢字でGO!』のゲーム内容に関するお問い合わせをすることはお控えください。</strong>
-- 例外として、ブラウザ版において、**XなどのSNSで『漢字でGO!』とワード検索した際、**<strong class="strong large">最新のポスト</span>**に「エラーが起きてプレイできない」といった旨のものがいくつか見受けられた場合<sup>※</sup>に限り**お伝えください。
+- 例外として、ブラウザ版において、**XなどのSNSで『漢字でGO!』とワード検索した際、**<strong class="strong large">最新のポスト</strong>**に「エラーが起きてプレイできない」といった旨のものがいくつか見受けられた場合<sup>※</sup>に限り**お伝えください。
 
 <div style="padding: 10px; margin-bottom: 10px; border: 1px dashed #333333; font-size:10pt;">
-    ※ … 個人の環境のみで起きている場合（ほかの環境では同じようなエラーが確認できないなど）はお控えください。</div>
+    ※ … <strong class="strong large">個人の環境のみで起きている場合（ほかの環境では同じようなエラーが確認できないなど）はお控えください。</strong></div>
 <br>
 
 <strong class="strong large">②仕様による誤解を防ぐため、初めてプレイする際は、各コースを選択する前に必ず遊び方説明をよくご覧ください。</strong><span class="small">（一足飛びにしてしまう方が多く見受けられます。）</span>
