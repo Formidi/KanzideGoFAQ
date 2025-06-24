@@ -30,6 +30,7 @@
 </br>
 
 ### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
 - 当て字ではあるが、小説を中心に多くの文献でひとつの読み方として広まっている
   - [尾ける の例文集 - 用例.jp](https://yourei.jp/%E5%B0%BE%E3%81%91%E3%82%8B)
   - [尾行するという意味の「つける」という動詞を、尾という漢字を使って表記することは可能か。｜レファレンス協同データベース](https://crd.ndl.go.jp/reference/entry/index.php?id=1000099796&page=ref_view)
@@ -46,6 +47,7 @@
 </br>
 
 ### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
 - [漢字ペディア](https://www.kanjipedia.jp/kotoba/0006637000)に、見出しではないが参考として記載されている
 - 当て字ではあるが、多くの文献やサイトでひとつの読み方として広まっている
   - [記事 - Precious.jp（プレシャス）](https://precious.jp/articles/-/26218)
@@ -87,3 +89,96 @@
   - [ヒラズゲンセイ - 昆虫図鑑](https://konchu-zukan.info/hirazugensei.php)
     - **※虫の画像があります**
   - [記事 - ニコニコ大百科](https://dic.nicovideo.jp/a/%E3%83%92%E3%83%A9%E3%82%BA%E3%82%B2%E3%83%B3%E3%82%BB%E3%82%A4)
+
+</br>
+</br>
+
+## 「和羗活」
+**v1.1.3.5a**時点でのID：`Lv06_1219`
+
+正解としている読み：**わきょうかつ**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献やサイトでひとつの読み方として広まっている
+  - [漢方を知ろう - 生薬辞典](https://www.tsumura.co.jp/kampo-view/know/syouyaku/)
+  - [ワキョウカツ - KEGG](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00064732)
+
+</br>
+</br>
+
+## 「栝楼仁」
+**v1.1.3.5a**時点でのID：`Lv06_1220`
+
+正解としている読み：**かろにん**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献やサイトでひとつの読み方として広まっている
+  - [漢方を知ろう - 生薬辞典](https://www.tsumura.co.jp/kampo-view/know/syouyaku/)
+  - [栝楼仁（かろにん） - 漢方薬のきぐすり.com](https://www.kigusuri.com/kampo/jiten/shouyaku/karonin/)
+
+</br>
+</br>
+
+## 「圸ノ上」遺跡
+**v1.1.3.5a**時点でのID：`Lv06_1223`
+
+正解としている読み：**ままのうえ**<span class="small">いせき</span>
+
+</br>
+
+### 備考
+- 地名が存在
+  - [書誌詳細 - WebOPAC](https://opactmu.lib.tmu.ac.jp/iwjs0013opc/ctlsrh.do?ncid=BA79173968&search_mode=detail&tab_num=0&locale=ja)
+  - [ポスト - 公益財団法人山形県埋蔵文化財センター](https://x.com/yamagatamaibun/status/1557909737034973190)
+
+</br>
+</br>
+
+## 「菻沢」
+**v1.1.3.5a**時点でのID：`Lv06_1224`
+
+正解としている読み：**がつきざわ**
+
+</br>
+
+### 備考
+- 地名が存在
+  - [該当地名 - NAVITIME](https://www.navitime.co.jp/address/05434004121/%E7%A7%8B%E7%94%B0%E7%9C%8C%E4%BB%99%E5%8C%97%E9%83%A1%E7%BE%8E%E9%83%B7%E7%94%BA%E9%87%91%E6%B2%A2%E8%A5%BF%E6%A0%B9%E4%B8%8B%E8%8F%BB%E6%B2%A2/)
+
+</br>
+</br>
+
+## 「憾𤚥」滝
+**v1.1.3.5a**時点でのID：`Lv06_1234`
+
+正解としている読み：**かんまん**<span class="small">だき</span>
+
+</br>
+
+### 備考
+- 字が異なるが、不動明王の真言の一部である『憾𤚥』から取っていると思われる
+  - [たらたかんまん - コトバンク](https://kotobank.jp/word/%E3%81%9F%E3%82%89%E3%81%9F%E3%81%8B%E3%82%93%E3%81%BE%E3%82%93-2060746)
+- 地名が存在
+  - [該当地名 - ヤマレコ](https://www.yamareco.com/modules/yamainfo/ptinfo.php?ptid=68117)
+- 同地域には[大通寺](https://ja.wikipedia.org/wiki/%E5%A4%A7%E9%80%9A%E5%AF%BA_(%E9%95%B7%E9%87%8E%E7%9C%8C%E6%9C%A8%E6%9B%BD%E7%94%BA))があり、本堂の脇侍に不動明王が安置されている
+
+</br>
+</br>
+
+## 「清戸廹」横穴
+**v1.1.3.5a**時点でのID：`Lv06_1238`
+
+正解としている読み：**きよとさく**<span class="small">よこあな</span>
+
+</br>
+
+### 備考
+- 地名が存在
+  - [記事 - うつくしま電子事典](https://www.gimu.fks.ed.jp/plugin/databases/detail/2/18/103)
+  - [記事 - 全国こども考古学教室](https://kids-kouko.com/historical_site/tohoku/pref_fukushima/220/)
