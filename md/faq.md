@@ -515,6 +515,7 @@ https://twitter.com/KanzideGo/status/1711680488187060226
 **仕様**です。
 
 詳しくは、ブラウザ版／DL版内の『典拠・クレジット』をご覧ください。
+
 <span style="color:#aaaaaa;">490A0p2W</span>
 
 </br>
@@ -632,43 +633,6 @@ Lv6内でも、10～1級の漢字で構成されている問題が出題され�
 挑戦段階ではまず単語自体を聞いたことがないということが多くなります。
 
 但し、『メイン』の非＋コースでは、**漢字は難しいものの読みは聞き馴染みがあるであろうもの、勘で答えられそうなもの**を中心に取り扱っております。
-
-</br>
-</br>
-
-
-## レベル毎の出題範囲を教えてほしい
-
-### レベル1～5
-[Wikipedia](https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
-
-[Weblio国語辞典](https://www.weblio.jp/)
-
-[コトバンク](https://kotobank.jp/)
-
-[漢字ペディア](https://www.kanjipedia.jp/)
-
-[漢字<ruby>逞筆<rp>（</rp><rt>ていひつ</rt><rp>）</rp></ruby>](https://hagunn2525.wixsite.com/kanji-teihitsu)
-
-### レベル6～7
-上記に加えて、
-
-[漢字辞典オンライン](https://kanji.jitenon.jp/)
-
-- 主に異体字や配当外の熟語など
-</br>
-
-[ウィクショナリー日本語版](https://ja.wiktionary.org/wiki/%E3%82%A6%E3%82%A3%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%8A%E3%83%AA%E3%83%BC)
-
-[zi.tools](https://zi.tools/)
-
-[K's BookShelf](https://ksbookshelf.com/DW/index.html)
-
-[グリフウィキ](https://glyphwiki.org/wiki/GlyphWiki:%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
-<span class="small">（→有志が追加した創作の異体字等を含むため、典拠が明記されているもののみ）</span>
-
-
-- 主に異体字や国字など
 
 </br>
 </br>
