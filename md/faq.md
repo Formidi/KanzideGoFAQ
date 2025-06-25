@@ -512,7 +512,7 @@ https://twitter.com/KanzideGo/status/1711680488187060226
 **仕様**です。
 
 詳しくは、ブラウザ版／DL版内の『典拠・クレジット』をご覧ください。
-![p](./images/fm.png)  
+<img src="./images/fm.png" width="40%">
 
 </br>
 </br>
