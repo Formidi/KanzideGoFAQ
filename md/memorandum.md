@@ -17,6 +17,184 @@
 たとえ原典に欠けているとしても、ある漢字をある読み方をする人がいて、それが広まっていけばひとつの読み方として定着します。<span class="small">（いわゆる『慣用読み』と呼ばれます）</span>
 
 少なからず原説と文化を一緒くたにする必要はあらず、[大所高所](https://www.weblio.jp/content/%E5%A4%A7%E6%89%80%E9%AB%98%E6%89%80)からの視野で柔軟な文化への取り組みへご協力いただけることを祈っております。
+</br>
+</br>
+
+# Lv2
+## 仮想的「有能感」
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0039`
+
+正解としている読み：<span class="small">かそうてき</span>**ゆうのうかん**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - 講談社](https://news.kodansha.co.jp/books/20170614_b01)
+  - [記事 - Smart Habit for School](https://www.smarthabit.net/forschool/blog/0026)
+
+</br>
+</br>
+
+## 「他責」思考
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0041`
+
+正解としている読み：**たせき**<span class="small">しこう</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - Domani](https://domani.shogakukan.co.jp/1060585)
+  - [記事 - PEOPLEWORK](https://peoplework.jp/blog/blame-taker)
+
+</br>
+</br>
+
+## 「論破」ブーム
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0042`
+
+正解としている読み：**ろんぱ**<span class="small">ブーム</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - 読売新聞](https://www.yomiuri.co.jp/life/20250424-OYT1T50134/)
+  - [記事 - NEWSポストセブン](https://www.news-postseven.com/archives/20220426_1747463.html?DETAIL)
+
+</br>
+</br>
+
+## 「独善的」思い込み
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0044`
+
+正解としている読み：**どくぜんてき**<span class="small">おもいこみ</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [記事 - ログミーBusiness](https://logmi.jp/knowledge_culture/culture/201100)
+  - [匿名だからネット荒らしは起きる - FFXIV PREMIUM EVENT](https://premium4678.wixsite.com/ff14mysite/single-post/2017/06/11/%E5%8C%BF%E5%90%8D%E3%81%A0%E3%81%8B%E3%82%89%E8%8D%92%E3%82%89%E3%81%97%E3%81%AF%E8%B5%B7%E3%81%8D%E3%82%8B)
+
+</br>
+</br>
+
+## 「病理的」防衛
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0048`
+
+正解としている読み：**びょうりてき**<span class="small">ぼうえい</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - 田町三田こころみクリニック](https://cocoromi-mental.jp/selfcare/defense-mechanism/)
+  - [記事 - 医療法人社団 平成医会](https://heisei-ikai.or.jp/column/defense-mechanism/)
+
+</br>
+</br>
+
+## 「非実在型」炎上
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0051`
+
+正解としている読み：**ひじつざいがた**<span class="small">えんじょう</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - iの視点](https://www.siemple.co.jp/isiten/article/47_20210428/)
+  - [記事 - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/cbd76fef3b99ae65557e10493afd396c19cd5e8e)
+
+</br>
+</br>
+
+## 自己「正当化」
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0056`
+
+正解としている読み：<span class="small">じこ</span>**せいとうか**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - さくら相談](https://sakurasodan.com/column4-2/)
+  - [記事 - 現代新書 | 講談社](https://gendai.media/articles/-/129428)
+
+</br>
+</br>
+
+## 「優越感」ゲーム
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0064`
+
+正解としている読み：**ゆうえつかん**<span class="small">ゲーム</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [記事 - シロクマの屑籠](https://p-shirokuma.hatenadiary.com/entry/20090904/p1)
+  - [記事 - umeten's blog](https://umeten.hatenablog.com/entry/20050928/p1)
+  - 2000年前半から使用されはじめている
+
+</br>
+</br>
+
+# Lv3
+## 相対的「剥奪感」
+**v1.1.4.0a**時点でのID：`Lv03_Ca013_0036`
+
+正解としている読み：<span class="small">そうたいてき</span>**はくだつかん**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [記事 - 慶應義塾大学大学院システムデザイン・マネジメント研究科ヒューマンシステムデザイン研究室](https://lab.sdm.keio.ac.jp/maenolab/J-PRDS5.htm)
+  - [記事 - NECソリューションイノベータ株式会社](https://note.nec-solutioninnovators.co.jp/n/n75e7c1e71d79)
+
+</br>
+</br>
+
+## 「不寛容」社会
+**v1.1.4.0a**時点でのID：`Lv03_Ca013_0038`
+
+正解としている読み：**ふかんよう**<span class="small">しゃかい</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [不寛容社会 - Amazon](https://amzn.asia/d/8n2Q7bK)
+  - [記事 - PRESIDENT WOMAN Online](https://president.jp/articles/-/29277)
+
+</br>
+</br>
+
+## 「衆愚」化
+**v1.1.4.0a**時点でのID：`Lv03_Ca013_0046`
+
+正解としている読み：**しゅうぐ**<span class="small">か</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献でひとつの読み方として広まっている
+  - [記事 - Cube Lilac](https://clown.cube-soft.jp/entry/20090725/p1)
+  - [記事 - GIGAZINE](https://gigazine.net/news/20140716-forget-wisdom-of-crowds/)
 
 </br>
 </br>
@@ -38,6 +216,22 @@
 </br>
 </br>
 
+## 「蟹」の精神
+**v1.1.4.0a**時点でのID：`Lv04_Ca013_0061`
+
+正解としている読み：**かに**<span class="small">のせいしん</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [記事 - カレッジサプリ](https://www.courage-sapuri.jp/backnumber/649/)
+  - [記事 - NOSUKE no blog 青年海外協力隊 in フィリピン 〜無いから有る〜](https://nosukeblog.wordpress.com/2016/08/25/%EF%BC%98%E6%9C%88%E6%B4%BB%E5%8B%95%E6%97%A5%E8%A8%98%E2%91%A1%EF%BC%81%E3%82%AF%E3%83%A9%E3%83%96%E3%83%A1%E3%83%B3%E3%82%BF%E3%83%AA%E3%83%86%E3%82%A3%E3%80%9C%E8%9F%B9%E3%81%AE%E7%B2%BE%E7%A5%9E/)
+
+</br>
+</br>
+
 # Lv5
 ## 「無礼」る
 **v1.1.1.0f**時点でのID：`Lv05_1484`
@@ -53,6 +247,22 @@
   - [記事 - Precious.jp（プレシャス）](https://precious.jp/articles/-/26218)
   - [記事 - エキサイトニュース](https://www.excite.co.jp/news/article/E1692977494201/)
   - [中央を無礼るなよ - ピクシブ百科事典](https://dic.pixiv.net/a/%E4%B8%AD%E5%A4%AE%E3%82%92%E7%84%A1%E7%A4%BC%E3%82%8B%E3%81%AA%E3%82%88)
+
+</br>
+</br>
+
+## 「蚰蜒」魂
+**v1.1.4.0a**時点でのID：`Lv05_Ca013_0001`
+
+正解としている読み：**げじげじ**<span class="small">だましい</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 用例は少ないが、いくつかの文献で単語が存在している
+  - [気を使う - コトバンク](https://kotobank.jp/word/%E6%B0%97%E3%82%92%E4%BD%BF%E3%81%86-2026653)
+  - [記事 - 夕空の法則](https://www.theatrum-mundi.net/yuzora/yuzora059.shtml)
 
 </br>
 </br>
