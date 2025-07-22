@@ -30,7 +30,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - 講談社](https://news.kodansha.co.jp/books/20170614_b01)
   - [記事 - Smart Habit for School](https://www.smarthabit.net/forschool/blog/0026)
 
@@ -46,7 +46,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - Domani](https://domani.shogakukan.co.jp/1060585)
   - [記事 - PEOPLEWORK](https://peoplework.jp/blog/blame-taker)
 
@@ -62,7 +62,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - 読売新聞](https://www.yomiuri.co.jp/life/20250424-OYT1T50134/)
   - [記事 - NEWSポストセブン](https://www.news-postseven.com/archives/20220426_1747463.html?DETAIL)
 
@@ -94,7 +94,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - 田町三田こころみクリニック](https://cocoromi-mental.jp/selfcare/defense-mechanism/)
   - [記事 - 医療法人社団 平成医会](https://heisei-ikai.or.jp/column/defense-mechanism/)
 
@@ -110,7 +110,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - iの視点](https://www.siemple.co.jp/isiten/article/47_20210428/)
   - [記事 - Yahoo!ニュース](https://news.yahoo.co.jp/expert/articles/cbd76fef3b99ae65557e10493afd396c19cd5e8e)
 
@@ -126,7 +126,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - さくら相談](https://sakurasodan.com/column4-2/)
   - [記事 - 現代新書 | 講談社](https://gendai.media/articles/-/129428)
 
@@ -146,6 +146,74 @@
   - [記事 - シロクマの屑籠](https://p-shirokuma.hatenadiary.com/entry/20090904/p1)
   - [記事 - umeten's blog](https://umeten.hatenablog.com/entry/20050928/p1)
   - 2000年前半から使用されはじめている
+
+</br>
+</br>
+
+## 「嫌知」らず
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0071`
+
+正解としている読み：**いやし**<span class="small">らず</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献で用例が広まっている
+  - [記事 - Yahoo!ニュース](https://news.yahoo.co.jp/articles/5dea58798560675bb3fe0aea91856fd36e4b9d61)
+  - [記事 - 街コンジャパン](https://machicon.jp/koigaku/column/439154/)
+
+</br>
+</br>
+
+## マウント「合戦」
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0073`
+
+正解としている読み：<span class="small">マウント</span>**がっせん**
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献で用例が広まっている
+  - [記事 - THE GOLD 60](https://gentosha-go.com/articles/-/57765)
+  - [記事 - 株式会社東京コンサルティングファーム](https://kuno-cpa.co.jp/management-chusho/%E6%9C%AC%E5%BD%93%E3%81%AE%E8%AC%99%E8%99%9A%E3%81%95%E3%81%A8%E3%81%AF%E4%BD%95%E3%81%8B%EF%BC%9F%E3%80%9C%E4%BA%BA%E4%BA%8B%E7%B5%84%E7%B9%94%E3%81%8B%E3%82%89%E3%83%93%E3%82%B8%E3%83%8D%E3%82%B9/)
+
+</br>
+</br>
+
+## お気持ち「表明」
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0078`
+
+正解としている読み：<span class="small">おきもち</span>**ひょうめい**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献で用例が広まっている
+  - [記事 - ピクシブ百科事典](https://dic.pixiv.net/a/%E3%81%8A%E6%B0%97%E6%8C%81%E3%81%A1%E8%A1%A8%E6%98%8E)
+  - [記事 - ばしでざ](https://bashideza.com/twitter-okimochi/)
+
+</br>
+</br>
+
+## 「引用」叩き
+**v1.1.4.0a**時点でのID：`Lv02_Ca013_0079`
+
+正解としている読み：<span class="small"></span>**いんよう**<span class="small">たたき</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- XなどのSNSを中心に用例を見ることができる
+  - [『"引用叩き"の検索結果 - X』](https://x.com/search?q=%22%E5%BC%95%E7%94%A8%E5%8F%A9%E3%81%8D%22&src=typed_query&f=live)
+
+</br>
+
+### 使用例（架空のポストです）
+![DL版のフォルダ](./images/Lv02_Ca013_0079_ex.png)  
 
 </br>
 </br>
@@ -192,7 +260,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献でひとつの読み方として広まっている
+- 多くの文献で用例が広まっている
   - [記事 - Cube Lilac](https://clown.cube-soft.jp/entry/20090725/p1)
   - [記事 - GIGAZINE](https://gigazine.net/news/20140716-forget-wisdom-of-crowds/)
 
@@ -267,6 +335,23 @@
 </br>
 </br>
 
+## 「倉鼠」
+**v1.1.4.0a**時点でのID：`Lv05_1815`
+
+正解としている読み：**はむすたー**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献やサイトで用例が広まっている
+  - [記事 - ダ・ヴィンチWeb](https://ddnavi.com/article/d1428538/a/)
+  - [記事 - 電撃オンライン](https://dengekionline.com/articles/153371/)
+  - [記事 - TRILL【トリル】](https://trilltrill.jp/articles/3387788)  
+
+</br>
+</br>
+
 # Lv6
 ## 「鱣子」
 **v1.1.1.0f**時点でのID：`Lv06_0576`
@@ -295,7 +380,7 @@
 
 ### 備考
 - 典拠は不明だが、以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献やサイトでひとつの読み方として広まっている
+- 多くの文献やサイトで用例が広まっている
   - [ヒラズゲンセイ - 昆虫図鑑](https://konchu-zukan.info/hirazugensei.php)
     - **※虫の画像があります**
   - [記事 - ニコニコ大百科](https://dic.nicovideo.jp/a/%E3%83%92%E3%83%A9%E3%82%BA%E3%82%B2%E3%83%B3%E3%82%BB%E3%82%A4)
@@ -312,7 +397,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献やサイトでひとつの読み方として広まっている
+- 多くの文献やサイトで用例が広まっている
   - [漢方を知ろう - 生薬辞典](https://www.tsumura.co.jp/kampo-view/know/syouyaku/)
   - [ワキョウカツ - KEGG](https://www.kegg.jp/medicus-bin/japic_med?japic_code=00064732)
 
@@ -328,7 +413,7 @@
 
 ### 備考
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
-- 多くの文献やサイトでひとつの読み方として広まっている
+- 多くの文献やサイトで用例が広まっている
   - [漢方を知ろう - 生薬辞典](https://www.tsumura.co.jp/kampo-view/know/syouyaku/)
   - [栝楼仁（かろにん） - 漢方薬のきぐすり.com](https://www.kigusuri.com/kampo/jiten/shouyaku/karonin/)
 
@@ -392,3 +477,262 @@
 - 地名が存在
   - [記事 - うつくしま電子事典](https://www.gimu.fks.ed.jp/plugin/databases/detail/2/18/103)
   - [記事 - 全国こども考古学教室](https://kids-kouko.com/historical_site/tohoku/pref_fukushima/220/)
+
+</br>
+</br>
+
+## 「𩸩」
+**v1.1.4.0a**時点でのID：`Lv06_1281`
+
+正解としている読み：<span class="small"></span>**こい**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「魴鮃」
+**v1.1.4.0a**時点でのID：`Lv06_1282`
+
+正解としている読み：<span class="small"></span>**ふな**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「ます」
+**v1.1.4.0a**時点でのID：`Lv06_1283`
+
+正解としている読み：<span class="small"></span>**ます**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「鱁」
+**v1.1.4.0a**時点でのID：`Lv06_1284`
+
+正解としている読み：<span class="small"></span>**むつ**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「鰪」
+**v1.1.4.0a**時点でのID：`Lv06_1286`
+
+正解としている読み：<span class="small"></span>**たなご**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「鰠」
+**v1.1.4.0a**時点でのID：`Lv06_1287`
+
+正解としている読み：<span class="small"></span>**にごい**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「鯽魚」
+**v1.1.4.0a**時点でのID：`Lv06_1288`
+
+正解としている読み：<span class="small"></span>**もぶし**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「蛄䗐」
+**v1.1.4.0a**時点でのID：`Lv06_1290`
+
+正解としている読み：<span class="small"></span>**よなむし**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「木螺」
+**v1.1.4.0a**時点でのID：`Lv06_1291`
+
+正解としている読み：<span class="small"></span>**みのむし**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「避債蟲」
+**v1.1.4.0a**時点でのID：`Lv06_1292`
+
+正解としている読み：<span class="small"></span>**みのむし**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「螲蟷」
+**v1.1.4.0a**時点でのID：`Lv06_1293`
+
+正解としている読み：<span class="small"></span>**つちぐも**<span class="small"></span>、<span class="small"></span>**つちくも**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+    - 記載は『つちくも』だが、通用するものとして連濁を許容
+
+</br>
+</br>
+
+## 「蟰蛸」
+**v1.1.4.0a**時点でのID：`Lv06_1294`
+
+正解としている読み：<span class="small"></span>**あしだかぐも**<span class="small"></span>、<span class="small"></span>**あしたかくも**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+    - 記載は『あしたかくも』だが、通用するものとして連濁を許容
+
+</br>
+</br>
+
+## 「白蛵蚯蚓」
+**v1.1.4.0a**時点でのID：`Lv06_1295`
+
+正解としている読み：<span class="small"></span>**かぶらみみず**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「はあり」
+**v1.1.4.0a**時点でのID：`Lv06_1296`
+
+正解としている読み：<span class="small"></span>**はあり**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+
+</br>
+</br>
+
+## 「蚙」
+**v1.1.4.0a**時点でのID：`Lv06_1297`
+
+正解としている読み：<span class="small"></span>**かつお**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
+    - 『加豆乎』と読ませており、本ゲームでは「かつお」と判断
+
+</br>
+</br>
+
+## 「羹臛」
+**v1.1.4.0a**時点でのID：`Lv06_1338`
+
+正解としている読み：<span class="small"></span>**こうかく**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 多くの文献で用例が広まっている
+  - [記事 - 日本の食べ物用語辞典](https://japan-word.com/atsumono)
+  - [記事 - 浄土宗大辞典](https://jodoshuzensho.jp/daijiten/index.php/%E9%9D%9E%E6%99%82%E9%A3%9F)
+
+</br>
+</br>
+
+## 「乒乓」く
+**v1.1.4.0a**時点でのID：`Lv07_0545`
+
+正解としている読み：<span class="small"></span>**よろめ**<span class="small">く</span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 読みが記載されている
+  - [南總里見八犬傳 - 国書データベース](https://kokusho.nijl.ac.jp/biblio/100307162/1419?ln=ja)
