@@ -81,7 +81,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 </br>
 
-<a href="./?p=flaggeduserlist" target="_blank" class="button success large" background-color="#ff7777">注意喚起ユーザーリスト</a>
+<a href="./?p=flaggeduserlist" target="_blank" class="fbutton red large">注意喚起ユーザーリスト</a>
 
 </br>
 

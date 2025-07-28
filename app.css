@@ -250,18 +250,19 @@ nav {
 		opacity:0.7;
 		transition: all 0.3s ease;
 	}
-
-	#faqbody a.fbutton.success,
-	#faqbody a:link.fbutton.success,
-	#faqbody a:active.fbutton.success,
-	#faqbody a:visited.fbutton.success {
-		color:white;
+	#faqbody a.fbutton.red,
+	#faqbody a:link.fbutton.red,
+	#faqbody a:active.fbutton.red,
+	#faqbody a:visited.fbutton.red {
+		color: white;
 		background-color: var(--kango-red);
 	}
-	#faqbody a:hover.fbutton.success {
-		opacity:0.7;
+
+	#faqbody a:hover.fbutton.red {
+		opacity: 0.7;
 		transition: all 0.3s ease;
 	}
+
 
 	#faqbody h1 {
 		font-size:1.5em;
