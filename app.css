@@ -254,6 +254,13 @@ nav {
 	#faqbody a:link.fbutton.red,
 	#faqbody a:active.fbutton.red,
 	#faqbody a:visited.fbutton.red {
+		padding: 1em 2em;
+		min-width: 220px;
+		font-size: 1.1em;
+		border-radius: 0.5em;
+		text-align: center;
+		margin-bottom: 1em;
+		box-sizing: border-box;
 		color: white;
 		background-color: var(--kango-red);
 	}
