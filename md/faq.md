@@ -1,5 +1,5 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/7/7</strong>
+<strong class="strong large">最終更新日…25/7/28</strong>
 
 # はじめに
 このFAQはこれまで作者へ寄せられたお問い合わせ・要望について記載しています。  
