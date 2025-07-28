@@ -33,7 +33,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 </br>
 </br>
 
-# 問題をまとめたwikiが見れなくなっている(25/7/7現在)
+# 問題をまとめたwikiが見れなくなっている(25/7/28現在)
 <strong class="strong large">本ゲームの公式wikiは存在いたしません。</strong>
 
 閲覧が不可になったwikiは**非公式のもの**であり、有志の方により運営されているものです。
@@ -81,7 +81,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 </br>
 
-<a href="./?p=flaggeduserlist" target="_blank" class="flaggedbutton success large">注意喚起ユーザーリスト</a>
+<a href="./?p=flaggeduserlist" target="_blank" class="fbutton success large">注意喚起ユーザーリスト</a>
 
 </br>
 
