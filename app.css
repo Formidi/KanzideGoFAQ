@@ -243,6 +243,15 @@ nav {
 	#faqbody a:link.button.success,
 	#faqbody a:active.button.success,
 	#faqbody a:visited.button.success {
+		padding: 0.6em 1em;
+		width: 400px;           /* ←ここでボタン幅を指定 */
+		min-width: 0;
+		max-width: 100%;
+		font-size: 1.2em;
+		border-radius: 0.0em;
+		text-align: center;
+		margin-bottom: 1em;
+		box-sizing: border-box;
 		color:white;
 		background-color: var(--kango-mint);
 	}
@@ -254,8 +263,10 @@ nav {
 	#faqbody a:link.fbutton.red,
 	#faqbody a:active.fbutton.red,
 	#faqbody a:visited.fbutton.red {
-		padding: 0.7em 1em;
-		min-width: 220px;
+		padding: 0.6em 1em;
+		width: 400px;           /* ←ここでボタン幅を指定 */
+		min-width: 0;
+		max-width: 100%;
 		font-size: 1.2em;
 		border-radius: 0.0em;
 		text-align: center;
