@@ -81,7 +81,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 </br>
 
-<a href="./?p=flaggeduserlist" target="_blank" class="fbutton success large">注意喚起ユーザーリスト</a>
+<a href="./?p=flaggeduserlist" target="_blank" class="button success large" background-color="#ff7777">注意喚起ユーザーリスト</a>
 
 </br>
 
@@ -102,12 +102,13 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 背景や待ち受けなどに使用できる壁紙を配布しています。
 
 </br>
-</br>
 
 <a href="./?p=memorandum" target="_blank" class="button success large">備忘録</a>
 
 出題におけるレギュレーション補助のためのページです。
 
+</br>
+</br>
 </br>
 
 <a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧(サポート終了)</a>
