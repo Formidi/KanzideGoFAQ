@@ -30,6 +30,7 @@
 
 	--kango-yellow:#feeb8c;
 	--kango-mint:#80d0ab;
+	--kango-red:#ff7777;
 	--kango-blue:#5354e4;
 
 	/* フォント設定 */
@@ -186,6 +187,16 @@ nav {
 		opacity:0.7;
 		transition: all 0.3s ease;
 	}
+
+	#faqbody a:visited.flaggedbutton.success {
+		color:white;
+		background-color: var(--kango-red);
+	}
+	#faqbody a:hover.flaggedbutton.success {
+		opacity:0.7;
+		transition: all 0.3s ease;
+	}
+
 
 	#faqbody h1 {
 		font-size:1.7em;

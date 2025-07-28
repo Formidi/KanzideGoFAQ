@@ -81,6 +81,10 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 </br>
 
+<a href="./?p=flaggeduserlist" target="_blank" class="flaggedbutton success large">注意喚起ユーザーリスト</a>
+
+</br>
+
 <a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
 
 配信に関するルールや最低限のマナーを記載しています。
