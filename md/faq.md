@@ -1,9 +1,11 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/7/28</strong>
+<strong class="strong large">最終更新日…25/8/1</strong>
 
 # はじめに
-このFAQはこれまで作者へ寄せられたお問い合わせ・要望について記載しています。  
-気になることや、未報告のバグと思われること、出題内容についてなどをご報告する前に、一度このFAQ内の記載をご確認ください。
+このFAQは、これまで作者へ寄せられたお問い合わせ・要望について記載しています。</br>
+気になることや、未報告のバグと思われること、出題内容についてなどをご報告する前に、一度このFAQ内の記載をご確認ください。</br>
+<strong class="strong large">おもにDL版／ブラウザ版の内容を取り扱っています。</strong>
+</br>
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
