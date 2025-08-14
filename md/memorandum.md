@@ -905,4 +905,21 @@
 - 以下の理由により**本ゲームでは**十分用例のある読みと判断
 - 読みが記載されている
   - [南總里見八犬傳 - 国書データベース](https://kokusho.nijl.ac.jp/biblio/100307162/1419?ln=ja)
-  
+
+</br>
+</br>
+
+# Lv8
+## 「？」
+**v1.2.0.0a**時点でのID：`Lv08_0011`
+
+正解としている読み：<span class="small"></span>**えい**<span class="small"></span>、<span class="small"></span>**ふん**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のある読みと判断
+- 『法華三大部難字記』に読みが記載されている
+- いくつかのサイトで言及を確認
+  - [記事 - 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/kanji_genzai218)
+  - [記事 - Hint-Pot](https://hint-pot.jp/archives/221491)
