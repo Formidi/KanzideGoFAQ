@@ -922,4 +922,4 @@
 - 『法華三大部難字記』に読みが記載されている
 - いくつかのサイトで言及を確認
   - [記事 - 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/kanji_genzai218)
-  - [記事 - Hint-Pot](https://hint-pot.jp/archives/221491) -->
+  - [記事 - Hint-Pot](https://hint-pot.jp/archives/221491) 
