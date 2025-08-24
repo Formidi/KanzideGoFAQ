@@ -4,7 +4,7 @@
 # はじめに
 このFAQは、これまで作者へ寄せられたお問い合わせ・要望について記載しています。</br>
 気になることや、未報告のバグと思われること、出題内容についてなどをご報告する前に、一度このFAQ内の記載をご確認ください。</br>
-<strong class="strong large">おもにDL版／ブラウザ版の内容を取り扱っています。</strong>
+<strong class="strong large">おもにDL版／ブラウザ版の内容を取り扱っています。動作環境がWindowsのみのため、Macは動作保証外です。</strong>
 </br>
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
