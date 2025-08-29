@@ -10,9 +10,9 @@
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
 <a href="https://formidi.github.io/KanzideGoFAQ/?p=stream">
-  <svg width="720" height="240" viewBox="0 0 420 140" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
+  <svg xmlns="http://www.w3.org/2000/svg" width="640" height="120" viewBox="0 0 640 120" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png"
-           width="240" height="80" />
+           width="640" height="120" />
   </svg>
 </a>
 
