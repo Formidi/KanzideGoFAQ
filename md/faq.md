@@ -11,7 +11,7 @@
 
 [![配信される際は、必ずこちらをご覧ください。][stream-img]](https://formidi.github.io/KanzideGoFAQ/?p=stream)
 
-[stream-img]: https://raw.githubusercontent.com/formidi/KanzideGoFAQ/main/images/stream_ico.png
+[stream-img]: https://raw.githubusercontent.com/formidi/KanzideGoFAQ/images/stream_ico.png
 
 <a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
 
