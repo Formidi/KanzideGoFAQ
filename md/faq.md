@@ -9,9 +9,12 @@
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
-[![配信される際は、必ずこちらをご覧ください。][stream-img]](https://formidi.github.io/KanzideGoFAQ/?p=stream)
-
-[stream-img]: https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png
+<a href="https://formidi.github.io/KanzideGoFAQ/?p=stream">
+  <svg width="720" height="240" viewBox="0 0 420 140" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png"
+           width="240" height="80" />
+  </svg>
+</a>
 
 <a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
 
