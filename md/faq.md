@@ -9,9 +9,7 @@
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
 
-<a href="./?p=stream">
-  <img src="./images/stream_ico.png" alt="配信される際は、必ずこちらをご覧ください。">
-</a>
+[![配信される際は、必ずこちらをご覧ください。](./images/stream_ico.png)](https://formidi.github.io/KanzideGoFAQ/?p=stream)
 
 <a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
 
