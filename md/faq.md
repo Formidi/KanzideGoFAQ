@@ -1,5 +1,5 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/8/20</strong>
+<strong class="strong large">最終更新日…25/8/30</strong>
 
 # はじめに
 このFAQは、これまで作者へ寄せられたお問い合わせ・要望について記載しています。</br>
@@ -8,6 +8,7 @@
 </br>
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4" target="_blank" class="button success large">最新バージョンのDLはコチラ</a>
+**配信の際は、必ず[こちら](./?p=stream)をご覧ください。**
 
 <a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
 
@@ -81,10 +82,6 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 ## その他のページ
 
-</br>
-
-<a href="./?p=flaggeduserlist" target="_blank" class="fbutton red large">注意喚起ユーザーリスト</a>
-</br>
 </br>
 
 <a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
