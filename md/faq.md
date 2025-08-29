@@ -16,15 +16,27 @@
   </svg>
 </a>
 
+</br>
+
+<a href="https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E3%81%A7go/id6470660613">
+  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="スマホアプリ版(iOS)">
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/smpios_ico.png"
+           width="420" height="80" />
+  </svg>
+</a>
+
+</br>
+
+<a href="https://play.google.com/store/apps/details?id=com.micelle.kanji">
+  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="スマホアプリ版(Android)">
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/smpand_ico.png"
+           width="420" height="80" />
+  </svg>
+</a>
+
+</br>
+
 <a href="https://x.gd/pxxw7" target="_blank" class="button success large">Mac環境でのプレイに関して</a>
-
-</br>
-
-<a href="https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E3%81%A7go/id6470660613" target="_blank" class="button success large">スマホアプリ版(iOS)</a>
-
-</br>
-
-<a href="https://play.google.com/store/apps/details?id=com.micelle.kanji" target="_blank" class="button success large">スマホアプリ版(Android)</a>
 
 </br>
 </br>
