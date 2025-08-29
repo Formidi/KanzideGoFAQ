@@ -107,13 +107,6 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 ## その他のページ
 
-</br>
-
-<a href="./?p=stream" target="_blank" class="button success large">配信に関する取り扱い</a>
-　配信に関するルールや最低限のマナーを記載しています。
-
-</br>
-
 <a href="./?p=oshiete" target="_blank" class="button success large">教えて！漢字でGO!</a>
 　ゲームの仕組みやキャラクターなどを説明しています。
 
@@ -126,12 +119,6 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 <a href="./?p=memorandum" target="_blank" class="button success large">備忘録</a>
 　出題におけるレギュレーション補助のためのページです。
-
-</br>
-</br>
-</br>
-
-<a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題一覧(サポート終了)</a>
 
 </br>
 </br>
