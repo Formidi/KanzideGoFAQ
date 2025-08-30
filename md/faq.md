@@ -8,36 +8,36 @@
 </br>
 
 <a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4">
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/latest_ico.png"
-           width="420" height="80" />
+           width="360" height="70" />
   </svg>
 </a>
 
 </br>
 
 <a href="https://formidi.github.io/KanzideGoFAQ/?p=stream">
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png"
-           width="420" height="80" />
+           width="360" height="70" />
   </svg>
 </a>
 
 </br>
 
 <a href="https://apps.apple.com/jp/app/%E6%BC%A2%E5%AD%97%E3%81%A7go/id6470660613">
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="スマホアプリ版(iOS)">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="スマホアプリ版(iOS)">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/smpios_ico.png"
-           width="420" height="80" />
+           width="360" height="70" />
   </svg>
 </a>
 
 </br>
 
 <a href="https://play.google.com/store/apps/details?id=com.micelle.kanji">
-  <svg xmlns="http://www.w3.org/2000/svg" width="420" height="80" viewBox="0 0 420 80" role="img" aria-label="スマホアプリ版(Android)">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="スマホアプリ版(Android)">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/smpand_ico.png"
-           width="420" height="80" />
+           width="360" height="70" />
   </svg>
 </a>
 
