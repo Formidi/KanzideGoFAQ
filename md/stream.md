@@ -78,6 +78,7 @@
 
 なお、誹謗中傷の程度が著しく、看過できないと判断される場合には、『注意喚起ユーザーリスト』への記載や、必要に応じて法的措置を検討する可能性がございます。あらかじめご了承くださいますようお願い申し上げます。</strong>
 
+<!-- 
 </br>
 </br>
 
@@ -89,7 +90,7 @@
 
 </br>
 
-<a href="./?p=flaggeduserlist" target="_blank" class="fbutton red large">注意喚起ユーザーリスト</a>
+<a href="./?p=flaggeduserlist" target="_blank" class="fbutton red large">注意喚起ユーザーリスト</a> -->
 
 </br>
 </br>
