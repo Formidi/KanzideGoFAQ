@@ -1,5 +1,5 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/9/816</strong>
+<strong class="strong large">最終更新日…25/9/17</strong>
 ```『問題をまとめたwikiが見れなくなっている』を削除```
 
 # はじめに
