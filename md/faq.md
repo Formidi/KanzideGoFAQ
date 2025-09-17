@@ -3,8 +3,10 @@
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
 25/9/17</br>
-┗『問題をまとめたwikiが見れなくなっている』を削除  
+┗『問題をまとめたwikiが見れなくなっている』を削除
 </div>
+
+<br/>
 
 # はじめに
 このFAQは、これまで作者へ寄せられたお問い合わせ・要望について記載しています。</br>
