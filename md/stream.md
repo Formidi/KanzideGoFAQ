@@ -58,9 +58,9 @@
 
 ## ロゴの画像がほしい
 本ゲームのロゴ画像は、以下のリンクよりダウンロードいただけます。  
-配信のサムネ画像等にご使用ください。  
+配信のサムネ画像等にご使用ください。
 
-<a href="https://drive.google.com/file/d/1NgVkQg_B0pnS34b68UarGEtou4LXZcek/view?usp=sharing" target="_blank" class="button success"><i class="fas fa-images"></i> 漢字でGO! タイトルロゴ</a>
+<a href="https://drive.google.com/file/d/1t6jH_uVNejUGl7657WE5CDMIRYR-DyPI/view?usp=sharing" target="_blank" class="button success"><i class="fas fa-images"></i> 漢字でGO! タイトルロゴ</a>
 
 </br>
 </br>

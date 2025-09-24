@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/9/23</strong>
+<strong class="strong large">最終更新日…25/9/24</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+25/9/24</br>
+┗ロゴを更新</br>
 25/9/23</br>
 ┗『過去の更新履歴(1.2.0.1f～0.7.1β)』を追加</br>
 25/9/17</br>
