@@ -926,7 +926,7 @@
 </br>
 
 # Lv7
-# 浅間岳「色𪩆」
+## 「大䗩」
 **v1.2.1.0a**時点でのID：`Lv07_0066`
 
 正解としているふりがな：<span class="small"></span>**おおつたのは**<span class="small"></span>
