@@ -999,8 +999,8 @@
   - [大和本草 - 古典籍総合データベース](https://www.wul.waseda.ac.jp/kotenseki/html/ni01/ni01_00413/index.html)
 
 </br>
-</br>-->
-
+</br>
+-->
 
 # Lv7
 ## 「大䗩」
@@ -1300,7 +1300,7 @@
   - [記事 - 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/kanji_genzai218)
   - [記事 - Hint-Pot](https://hint-pot.jp/archives/221491) 
 
-<!-->
+<!--
 ## 「𰀗」
 **v1.2.1.2a**時点でのID：`Lv08_0062`
 
