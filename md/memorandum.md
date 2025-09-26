@@ -925,6 +925,83 @@
 </br>
 </br>
 
+<!-->
+## 「夻魚」
+**v1.2.1.2a**時点でのID：`Lv06_1396`
+
+正解としているふりがな：<span class="small"></span>**たら**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のあるふりがなと判断
+- ふりがなが記載されている
+  - [大和本草 - 古典籍総合データベース](https://www.wul.waseda.ac.jp/kotenseki/html/ni01/ni01_00413/index.html)
+
+</br>
+</br>
+
+## 「曼荼羅花」
+**v1.2.1.2a**時点でのID：`Lv06_1397`
+
+正解としているふりがな：<span class="small"></span>**ちょうせんあさがお**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のあるふりがなと判断
+- ふりがなが記載されている
+  - [大和本草 - 古典籍総合データベース](https://www.wul.waseda.ac.jp/kotenseki/html/ni01/ni01_00413/index.html)
+
+</br>
+</br>
+
+## 「肉糕」
+**v1.2.1.2a**時点でのID：`Lv06_1398`
+
+正解としているふりがな：<span class="small"></span>**かまぼこ**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のあるふりがなと判断
+- ふりがなが記載されている
+  - [大和本草 - 古典籍総合データベース](https://www.wul.waseda.ac.jp/kotenseki/html/ni01/ni01_00413/index.html)
+
+</br>
+</br>
+
+## 「鸕鷀嶋」神社
+**v1.2.1.2a**時点でのID：`Lv06_1399`
+
+正解としているふりがな：**うのしま**<span class="small">じんじゃ</span>
+
+</br>
+
+### 備考
+- 地名が存在
+  - [記事 - 河口湖.net](https://kawaguchiko.net/shinto-shrine/unoshima-jinja/)
+  - [記事 - 山梨の歴史を旅するサイト](https://www.yamanashi-kankou.jp/rekitabi/jisha/spot/237.html)
+
+</br>
+</br>
+
+## 「石炭」
+**v1.2.1.2a**時点でのID：`Lv06_1400`
+
+正解としているふりがな：<span class="small"></span>**もえいし**<span class="small"></span>
+
+</br>
+
+### 備考
+- 以下の理由により**本ゲームでは**十分用例のあるふりがなと判断
+- ふりがなが記載されている
+  - [大和本草 - 古典籍総合データベース](https://www.wul.waseda.ac.jp/kotenseki/html/ni01/ni01_00413/index.html)
+
+</br>
+</br>-->
+
+
 # Lv7
 ## 「大䗩」
 **v1.2.1.0a**時点でのID：`Lv07_0066`
@@ -1054,7 +1131,7 @@
 ## （見本参考）
 **v1.2.1.1a**時点でのID：`Lv07_0572`
 
-正解としているふりがな：<span class="small"></span>**あんこう**<span class="small"></span>
+正解としているふりがな：<span class="small"></span>**ものあらがい**<span class="small"></span>
 
 </br>
 
@@ -1201,8 +1278,7 @@
   - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
 
 </br>
-</br>
--->
+</br>-->
 
 # Lv8
 ## （見本参考）
@@ -1224,7 +1300,7 @@
   - [記事 - 三省堂 ことばのコラム](https://dictionary.sanseido-publ.co.jp/column/kanji_genzai218)
   - [記事 - Hint-Pot](https://hint-pot.jp/archives/221491) 
 
-<!--
+<!-->
 ## 「𰀗」
 **v1.2.1.2a**時点でのID：`Lv08_0062`
 
@@ -1240,7 +1316,7 @@
 ## 「𰀱」
 **v1.2.1.2a**時点でのID：`Lv08_0063`
 
-正解としているふりがな：<span class="small"></span>**り**<span class="small"></span>、<span class="small"></span>**りゅう**<span class="small"></span>
+正解としているふりがな：<span class="small"></span>**りゅう**<span class="small"></span>、<span class="small"></span>**り**<span class="small"></span>
 
 </br>
 
