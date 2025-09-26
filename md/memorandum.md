@@ -1278,7 +1278,8 @@
   - [古事類苑全文データベース](https://ys.nichibun.ac.jp/kojiruien/index.php)
 
 </br>
-</br>-->
+</br>
+-->
 
 # Lv8
 ## （見本参考）
