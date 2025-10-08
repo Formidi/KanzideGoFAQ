@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/10/3</strong>
+<strong class="strong large">最終更新日…25/10/8</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+25/10/8</br>
+┗『備忘録』を更新</br>
 25/10/3</br>
 ┣『別タブにするとゲームが止まる』を更新</br>
 ┗『（DL版）GOパワーがリセットされてしまった』を追加</br>
