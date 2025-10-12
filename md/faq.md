@@ -2,6 +2,8 @@
 <strong class="strong large">最終更新日…25/10/8</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+25/10/12</br>
+┗『配信に関する取り扱い』を更新</br>
 25/10/8</br>
 ┗『備忘録』を更新</br>
 25/10/3</br>
@@ -27,18 +29,18 @@
 <strong class="strong large">おもにDL版／ブラウザ版の内容を取り扱っています。動作環境がWindowsのみのため、Macは動作保証外です。</strong>
 </br>
 
-<a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4">
+<a href="https://formidi.github.io/KanzideGoFAQ/?p=stream">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
-    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/latest_ico.png"
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png"
            width="360" height="70" />
   </svg>
 </a>
 
 </br>
 
-<a href="https://formidi.github.io/KanzideGoFAQ/?p=stream">
+<a href="https://drive.google.com/drive/folders/1sCpvy6DmFjr-gYRH97Nbopo0vhQG26R4">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="配信される際は、必ずこちらをご覧ください。">
-    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/stream_ico.png"
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/latest_ico.png"
            width="360" height="70" />
   </svg>
 </a>
