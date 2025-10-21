@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/10/8</strong>
+<strong class="strong large">最終更新日…25/10/21</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+25/10/21</br>
+┗『配信に関する取り扱い』を更新</br>
 25/10/12</br>
 ┗『配信に関する取り扱い』を更新</br>
 25/10/8</br>
