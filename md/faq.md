@@ -751,6 +751,9 @@ https://twitter.com/KanzideGo/status/1711680488187060226
 およそ一般的ではない漢字を中心に出題
 ### レベル7
 想像を絶する国字や異字を中心に出題
+### ？？？
+<span style="color:#ffffff">字義なきものと漢字に在らざるものを中心に出題</span>
+
 
 </br>
 </br>
