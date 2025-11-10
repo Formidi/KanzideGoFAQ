@@ -74,7 +74,7 @@ UIをご覧いただければ分かる通り、**特定のフォントに一致�
 ![こういうの②](./images/oshiete_kanzi02.png)  
 こういうの（そもそもUnicodeにない）を再びイチから作り直すのはおよそ現実的ではございません。
 
-本ゲームでは、<strong class="strong large">問題にテキストではなく画像を使用しております。</strong>
+本ゲームでは、<strong class="strong large">問題にテキスト描写ではなく画像を使用しております。</strong>
 
 率直に申し上げますと、[**Unicodeにない文字でさえもすべて収録している、シンプルで加工しやすい楷書フォント**](https://kotowaza.jitenon.jp/kotowaza/1353.php)でないと割に合わないです…
 
