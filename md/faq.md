@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/11/3</strong>
+<strong class="strong large">最終更新日…25/11/10</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+25/11/10</br>
+┗『教えて！漢字でGO!』に『なぜ出題時フォントが『セイビタカナワ』？』を追加</br>
 25/11/3</br>
 ┣『ミスやゲームオーバー後、モード選択に戻らずに更新すると、ミスする前の問題から再開できてしまう』を追加</br>
 ┗『ボーナスに報酬がないのはなぜ？』を更新</br>
