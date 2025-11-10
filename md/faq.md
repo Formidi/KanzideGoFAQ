@@ -2,7 +2,7 @@
 <strong class="strong large">最終更新日…25/11/11</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
-25/11/11/br>
+25/11/11</br>
 ┗『（DL版）Windowsディフェンダーによって起動が中断されてしまう』を追加</br>
 25/11/10</br>
 ┗『教えて！漢字でGO!』に『なぜ出題時フォントが『セイビタカナワ』？』を追加</br>
