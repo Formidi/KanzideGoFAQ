@@ -1320,3 +1320,10 @@
 - ピンインから読みを判断
   - [項目 - ウィクショナリー](https://ja.wiktionary.org/wiki/%F0%B0%80%B1)
     - `拼音: lì (li4)`とあり、日本語の音写を『り』とした
+
+# ジャンル『女真文字』
+当該ジャンルはすべて以下サイトから出題するものとします。
+
+- [世界の文字 - 地球ことば村](https://www.chikyukotobamura.org/muse/wr_easia_9.html)
+
+</br>
