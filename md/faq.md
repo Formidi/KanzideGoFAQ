@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…25/12/4</strong>
+<strong class="strong large">最終更新日…26/3/27</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+26/3/17</br>
+┗『備忘録』を更新</br>
 25/12/25</br>
 ┗『『ヘル＋』を制限時間『ふつう』でノーミスでクリアしたが、『ヴォイド』が解放されない』を追加</br>
 25/12/4</br>
