@@ -2,6 +2,8 @@
 <strong class="strong large">最終更新日…26/3/30</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+26/3/31</br>
+┗『差し替えた問題』を更新</br>
 26/3/30</br>
 ┗『配信に関する取り扱い』を更新</br>
 26/3/17</br>
@@ -149,6 +151,11 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 
 <a href="./?p=memorandum" target="_blank" class="button success large">備忘録</a>
 　出題におけるレギュレーション補助のためのページです。
+
+</br>
+
+<a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題</a>
+　差し替えを行った問題を記載するページす。
 
 </br>
 
