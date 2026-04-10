@@ -2,6 +2,8 @@
 <strong class="strong large">最終更新日…26/3/30</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+26/4/10</br>
+┗『DL版はどのファイルで始められる？』を更新</br>
 26/3/31</br>
 ┗『差し替えた問題』を更新</br>
 26/3/30</br>
@@ -360,10 +362,12 @@ RPGツクールMVの推奨動作環境を満たしているPCなどでお試し�
 </br>
 
 ## DL版はどのファイルで始められる？
-nw.jsを新調した関係上、DL版の起動ファイルが『Game.exe』から **『nw.exe』に変わります。**
-プレイされる際はご注意ください。
+~~nw.jsを新調した関係上、DL版の起動ファイルが『Game.exe』から **『nw.exe』に変わります。**~~
+~~プレイされる際はご注意ください。~~
 
 ![DL版のフォルダ](./images/kanzidego_nwjs.png)  
+
+現在は、**Game.exe**が使用されています。
 
 </br>
 </br>
