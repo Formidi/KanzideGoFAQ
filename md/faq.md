@@ -1,7 +1,9 @@
 <!-- よくある質問（FAQ） -->
-<strong class="strong large">最終更新日…26/3/30</strong>
+<strong class="strong large">最終更新日…26/6/2</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+26/6/2</br>
+┗『差し替えた問題』を更新</br>
 26/4/10</br>
 ┗『DL版はどのファイルで始められる？』を更新</br>
 26/3/31</br>
