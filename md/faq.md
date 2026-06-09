@@ -2,6 +2,8 @@
 <strong class="strong large">最終更新日…26/6/2</strong>
 
 <div style="border:1px solid #ccc; padding:8px; height:120px; overflow:auto;">
+26/6/9</br>
+┗『漢字でGOGO!』FAQのリンクを追加</br>
 26/6/2</br>
 ┗『差し替えた問題』を更新</br>
 26/4/10</br>
@@ -83,6 +85,15 @@
 <a href="https://play.google.com/store/apps/details?id=com.micelle.kanji">
   <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="スマホアプリ版(Android)">
     <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/smpand_ico.png"
+           width="360" height="70" />
+  </svg>
+</a>
+
+</br>
+
+<a href="https://formidi.github.io/KanzideGOGOFAQ/">
+  <svg xmlns="http://www.w3.org/2000/svg" width="360" height="70" viewBox="0 0 360 70" role="img" aria-label="漢字でGOGO">
+    <image href="https://raw.githubusercontent.com/formidi/KanzideGoFAQ/gh-pages/images/gogo_ico.png"
            width="360" height="70" />
   </svg>
 </a>
