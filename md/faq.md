@@ -171,7 +171,7 @@ FAQ内に記載が無い内容のお問い合わせ・バグとおぼしき挙�
 </br>
 
 <a href="./?p=exchange" target="_blank" class="button success large">差し替えた問題</a>
-　差し替えを行った問題を記載するページす。
+　差し替えを行った問題を記載するページです。
 
 </br>
 
